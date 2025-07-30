@@ -2,6 +2,14 @@
 
 This project predicts fantasy football wide receiver performance using statistical modeling and compares those predictions to expert rankings. The analysis covers data cleaning, feature engineering, model fitting, validation, and comparison with expert and actual results.
 
+## 📊 Interactive App
+
+You can try the regression model live here:  
+🔗 [Fantasy WR Predictor (Shiny App)](https://ehe07.shinyapps.io/ff_wr_predictor)
+
+This web app allows users to input wide receiver stats — including target share, YPRR, depth chart movement, and quarterback quality — to get a projected fantasy point total using the OLS model developed in this study.
+
+
 ---
 
 ## Project Structure
